@@ -14,7 +14,7 @@ using namespace simpleparser;
 int main() {
         std::cout << "simpleparser 0.1\n" << endl;
 
-        FILE *fh = fopen("/Users/iifawzi/Desktop/Parser/test.myc", "r");
+        FILE *fh = fopen("/Users/iifawzi/Desktop/Parser/parser/test.myc", "r");
         if (!fh) { cerr << "Can't find file." << endl; }
         fseek(fh, 0, SEEK_END);
         size_t fileSize = ftell(fh);
