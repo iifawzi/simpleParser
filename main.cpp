@@ -9,7 +9,7 @@
 #include <iostream>
 
 using namespace std;
-using namespace simpleparser;
+using namespace SimpleParser;
 
 int main() {
         std::cout << "simpleparser 0.1\n" << endl;

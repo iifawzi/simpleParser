@@ -10,7 +10,7 @@
 #include <vector>
 #include <string>
 
-namespace simpleparser {
+namespace SimpleParser {
 
     using namespace std;
 

@@ -9,7 +9,7 @@
 #include <stdexcept>
 #include <iostream>
 
-namespace simpleparser {
+namespace SimpleParser {
 
     using namespace std;
 
