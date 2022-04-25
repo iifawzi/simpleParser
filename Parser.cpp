@@ -6,3 +6,13 @@
 //
 
 #include "Parser.hpp"
+
+
+namespace SimpleParser {
+
+using namespace std;
+void parser::parse(<#vector<Token> &Tokens#>) {
+    
+}
+}
+
